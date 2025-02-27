@@ -1,4 +1,4 @@
-# Projeto-Vida-Acad-mica-Saud-vel
+# Projeto-Vida-Académica-Saudável
 
 ODS 3 – Saúde e Bem-Estar
 1. Objetivo do Projeto
