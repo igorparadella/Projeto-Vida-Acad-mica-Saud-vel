@@ -18,10 +18,10 @@ Estudantes da faculdade, professores e funcionários que queiram melhorar sua sa
 
 **4. Estrutura do Site**
 
-📌 Página Inicial: Apresentação do projeto e seu propósito.
-📌 Testes Simples: Pequenos questionários interativos para medir estresse, qualidade do sono e nível de produtividade.
-📌 Dicas de Saúde: Artigos curtos sobre bem-estar, organização, alimentação e saúde mental.
-📌 Contatos e Apoio: Links para serviços psicológicos da faculdade e outras instituições.
+- Página Inicial: Apresentação do projeto e seu propósito.
+- Testes Simples: Pequenos questionários interativos para medir estresse, qualidade do sono e nível de produtividade.
+- Dicas de Saúde: Artigos curtos sobre bem-estar, organização, alimentação e saúde mental.
+- Contatos e Apoio: Links para serviços psicológicos da faculdade e outras instituições.
 
 **5. Como Será Feito?**
 
