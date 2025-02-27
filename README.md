@@ -1,7 +1,7 @@
 # Projeto-Vida-Académica-Saudável
 
 ODS 3 – Saúde e Bem-Estar
-###1. Objetivo do Projeto
+###**1. Objetivo do Projeto**
    
 Criar um site informativo para incentivar o bem-estar dos alunos da faculdade, oferecendo dicas de saúde mental, testes rápidos e recursos de apoio para ajudar a equilibrar a rotina acadêmica com uma vida saudável.
 
