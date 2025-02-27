@@ -25,9 +25,9 @@ Estudantes da faculdade, professores e funcionários que queiram melhorar sua sa
 
 **5. Como Será Feito?**
 
-Tecnologia: HTML, CSS e JavaScript (site simples e acessível).
-Hospedagem: GitHub Pages (site gratuito e disponível para todos).
-Equipe: Cada integrante do grupo pode ajudar na pesquisa, conteúdo e desenvolvimento.
+- Tecnologia: HTML, CSS e JavaScript (site simples e acessível).
+- Hospedagem: GitHub Pages (site gratuito e disponível para todos).
+- Equipe: Cada integrante do grupo pode ajudar na pesquisa, conteúdo e desenvolvimento.
 
 **6. Resultados Esperados**
 
